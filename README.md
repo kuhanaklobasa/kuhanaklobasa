@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuhanaklobasa
-- 👀 I’m interested in making money
-- 🌱 I’m currently learning Javascript
+- Young programmer based in Slovenia 🇸🇮
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: otonbenda@gmail.com
   
 ### Profile Stats
